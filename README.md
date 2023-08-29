@@ -1,4 +1,4 @@
 # webapptest
-npx playwright install
+npm install -D @playwright/test   
 run tests with 
 npx playwright test     
